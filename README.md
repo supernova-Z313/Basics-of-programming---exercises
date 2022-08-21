@@ -13,5 +13,18 @@ Answers to the *exercises* and *test project* of the introductory programming co
  4. It was the final project of our final exam in this semester, which had 3 parts. The first part of designing an app in the form of a university email login system. The second part is creating a database and its interface. The third part is the connection of the first two parts and the handling of related errors. 
  This section requires **Tkinter** and **SQLite3** in addition to Python 3.X
 
+## Some interesting code ✨
+ - In folder (1): 📁
+     - Ex3-12.py ⇒ (Palindromes)
+     - Ex3-13.py ⇒ (Factorials)
+     - Ex3-14.py ⇒ (Approximating the Mathematical Constant π *'pi number'*)
+     - Ex3-	15.py ⇒ (Approximating the Mathematical Constant ℇ *'Euler number'*)
+     - Ex3-17.py ⇒ (Triangle dancer)
+     - Ex3-19.py ⇒ (Brute-Force Computing: Pythagorean Triples)
+   
+  - In folder (2):📁
+     - Ex4-11.py ⇒ (Guess-the-Number)
+     - Ex4-12.py ⇒ (Simulation: The Tortoise and the Hare)
+     - Ex4-17.py ⇒ (Computer-Assisted Instruction)
 #
 
